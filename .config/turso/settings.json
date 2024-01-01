@@ -1,0 +1,91 @@
+{
+  "cache": {
+    "closestlocation": {
+      "data": "mad",
+      "expiration": 1703240608
+    },
+    "database_names": {
+      "expiration": 1703213744,
+      "data": [
+        {
+          "dbId": "b25d8d1c-9d1b-11ee-b596-12ab0df70b1f",
+          "Name": "chatzie-db",
+          "Regions": [
+            "mad"
+          ],
+          "PrimaryRegion": "mad",
+          "Hostname": "chatzie-db-umutondersu.turso.io",
+          "Version": "0.22.10",
+          "Group": "default"
+        },
+        {
+          "dbId": "3958ec33-a071-11ee-a02f-3a200cdafa9d",
+          "Name": "beth-db",
+          "Regions": [
+            "mad"
+          ],
+          "PrimaryRegion": "mad",
+          "Hostname": "beth-db-umutondersu.turso.io",
+          "Version": "0.22.10",
+          "Group": "default"
+        }
+      ]
+    },
+    "groups": {
+      "data": [
+        {
+          "locations": [
+            "mad"
+          ],
+          "name": "default",
+          "primary": "mad"
+        }
+      ],
+      "expiration": 1703213664
+    },
+    "locations": {
+      "data": {
+        "ams": "Amsterdam, Netherlands",
+        "arn": "Stockholm, Sweden",
+        "atl": "Atlanta, Georgia (US)",
+        "bog": "Bogotá, Colombia",
+        "bom": "Mumbai, India",
+        "bos": "Boston, Massachusetts (US)",
+        "cdg": "Paris, France",
+        "den": "Denver, Colorado (US)",
+        "dfw": "Dallas, Texas (US)",
+        "ewr": "Secaucus, NJ (US)",
+        "eze": "Ezeiza, Argentina",
+        "fra": "Frankfurt, Germany",
+        "gdl": "Guadalajara, Mexico",
+        "gig": "Rio de Janeiro, Brazil",
+        "gru": "São Paulo, Brazil",
+        "hkg": "Hong Kong, Hong Kong",
+        "iad": "Ashburn, Virginia (US)",
+        "jnb": "Johannesburg, South Africa",
+        "lax": "Los Angeles, California (US)",
+        "lhr": "London, United Kingdom",
+        "mad": "Madrid, Spain",
+        "mia": "Miami, Florida (US)",
+        "nrt": "Tokyo, Japan",
+        "ord": "Chicago, Illinois (US)",
+        "otp": "Bucharest, Romania",
+        "phx": "Phoenix, Arizona (US)",
+        "qro": "Querétaro, Mexico",
+        "scl": "Santiago, Chile",
+        "sea": "Seattle, Washington (US)",
+        "sin": "Singapore, Singapore",
+        "sjc": "San Jose, California (US)",
+        "syd": "Sydney, Australia",
+        "waw": "Warsaw, Poland",
+        "yul": "Montreal, Canada",
+        "yyz": "Toronto, Canada"
+      },
+      "expiration": 1703240608
+    }
+  },
+  "config": {
+    "last_update_check": 1703211787
+  },
+  "config-path": ""
+}
