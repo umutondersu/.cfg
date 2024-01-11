@@ -13,6 +13,10 @@ alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo
 #fd
 alias fd='fdfind'
 
+#python
+alias py='python3'
+alias python='python3'
+
 # tmux kill all sessions alias
-# alias skill ='pkill -f tmux' 
+alias skill='pkill -f tmux' 
 
