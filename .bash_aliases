@@ -20,3 +20,6 @@ alias python='python3'
 # tmux kill all sessions alias
 alias skill='pkill -f tmux' 
 
+# vi and vim aliases
+alias vi='nvim'
+alias vim='nvim'
