@@ -119,4 +119,3 @@ if [ -f /home/qorcialwolf/.config/synth-shell/synth-shell-prompt.sh ] && [ -n "$
 	source /home/qorcialwolf/.config/synth-shell/synth-shell-prompt.sh
 fi
 . "$HOME/.cargo/env"
-
